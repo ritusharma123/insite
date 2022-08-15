@@ -11,33 +11,33 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://ritusharma123.github.io/fittoapp/Fitto.ipa</string>
+					<string>https://ritusharma123.github.io/insite/insite.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://ritusharma123.github.io/fittoapp/57X57.png</string>
+					<string>https://ritusharma123.github.io/insite/57X57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://ritusharma123.github.io/fittoapp/512X512.png</string>
+					<string>https://ritusharma123.github.io/insite/512X512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ambertag.fitto</string>
+				<string>com.mitsubishi.insiteuat</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>3.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>Fitto</string>
+				<string>INSITE</string>
 			</dict>
 		</dict>
 	</array>
